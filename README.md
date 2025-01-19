@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on something. :>
 - 🤔 I’m looking for help with coding Minecraft plugins.
 - 💬 Ask me about Servers and PCs.
-- 📫 How to reach me: support@mrschnirschuh.xyz
+- 📫 How to reach me: support@mrschnirschuh.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like tinkering.
 
